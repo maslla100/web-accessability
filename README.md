@@ -11,5 +11,4 @@ To install this project, download the repository files to your local machine. Op
 Usage
 To use this project, open the index.html file in your browser. The page will display the portfolio page. Click on the links in the navbar to navigate to the other pages. 
 
-Credits
-This project was created by Luis Llamas. The mockup was provided by the UT Austin Coding Bootcamp.
+
