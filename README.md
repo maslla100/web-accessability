@@ -1,9 +1,3 @@
-Coding Bootcamp UT Austin challenge 1
-
-Version 1.0.0 Deployment Date: 2023-10-26 Contributors: Luis Llamas
-
-Description
-This is a challenge for the UT Austin Coding Bootcamp. The challenge is to ensure the website can be accessed using assistive technologies such as video captions, screen readers, and braille keyboards.
 
 Features
 This project has a navbar, responsive layout, responsive images, and a functional contact form.
